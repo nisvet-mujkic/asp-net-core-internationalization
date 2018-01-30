@@ -1,0 +1,11 @@
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\Understanding Internationlization\Understanding Internationlization\bin\Debug\netcoreapp2.0\Understanding Internationlization.deps.json
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\Understanding Internationlization\Understanding Internationlization\bin\Debug\netcoreapp2.0\Understanding Internationlization.runtimeconfig.json
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\Understanding Internationlization\Understanding Internationlization\bin\Debug\netcoreapp2.0\Understanding Internationlization.runtimeconfig.dev.json
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\Understanding Internationlization\Understanding Internationlization\bin\Debug\netcoreapp2.0\Understanding Internationlization.dll
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\Understanding Internationlization\Understanding Internationlization\bin\Debug\netcoreapp2.0\Understanding Internationlization.pdb
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\Understanding Internationlization\Understanding Internationlization\obj\Debug\netcoreapp2.0\Understanding Internationlization.csprojResolveAssemblyReference.cache
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\Understanding Internationlization\Understanding Internationlization\obj\Debug\netcoreapp2.0\Understanding Internationlization.csproj.CoreCompileInputs.cache
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\Understanding Internationlization\Understanding Internationlization\obj\Debug\netcoreapp2.0\Understanding Internationlization.AssemblyInfoInputs.cache
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\Understanding Internationlization\Understanding Internationlization\obj\Debug\netcoreapp2.0\Understanding Internationlization.AssemblyInfo.cs
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\Understanding Internationlization\Understanding Internationlization\obj\Debug\netcoreapp2.0\Understanding Internationlization.dll
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\Understanding Internationlization\Understanding Internationlization\obj\Debug\netcoreapp2.0\Understanding Internationlization.pdb
