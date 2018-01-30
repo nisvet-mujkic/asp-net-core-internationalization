@@ -1,0 +1,17 @@
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\ResourceFiles\ResourceFiles\bin\Debug\netcoreapp2.0\ResourceFiles.deps.json
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\ResourceFiles\ResourceFiles\bin\Debug\netcoreapp2.0\ResourceFiles.runtimeconfig.json
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\ResourceFiles\ResourceFiles\bin\Debug\netcoreapp2.0\ResourceFiles.runtimeconfig.dev.json
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\ResourceFiles\ResourceFiles\bin\Debug\netcoreapp2.0\ResourceFiles.dll
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\ResourceFiles\ResourceFiles\bin\Debug\netcoreapp2.0\ResourceFiles.pdb
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\ResourceFiles\ResourceFiles\obj\Debug\netcoreapp2.0\ResourceFiles.csprojResolveAssemblyReference.cache
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\ResourceFiles\ResourceFiles\obj\Debug\netcoreapp2.0\ResourceFiles.csproj.CoreCompileInputs.cache
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\ResourceFiles\ResourceFiles\obj\Debug\netcoreapp2.0\ResourceFiles.AssemblyInfoInputs.cache
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\ResourceFiles\ResourceFiles\obj\Debug\netcoreapp2.0\ResourceFiles.AssemblyInfo.cs
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\ResourceFiles\ResourceFiles\obj\Debug\netcoreapp2.0\ResourceFiles.dll
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\ResourceFiles\ResourceFiles\obj\Debug\netcoreapp2.0\ResourceFiles.pdb
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\ResourceFiles\ResourceFiles\obj\Debug\netcoreapp2.0\ResourceFiles.Resources.HomePage.resources
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\ResourceFiles\ResourceFiles\obj\Debug\netcoreapp2.0\ResourceFiles.csproj.GenerateResource.Cache
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\ResourceFiles\ResourceFiles\bin\Debug\netcoreapp2.0\de-DE\ResourceFiles.resources.dll
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\ResourceFiles\ResourceFiles\obj\Debug\netcoreapp2.0\ResourceFiles.Resources.GenderEnumResource.resources
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\ResourceFiles\ResourceFiles\obj\Debug\netcoreapp2.0\ResourceFiles.Resources.GenderEnumResource.de-DE.resources
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\ResourceFiles\ResourceFiles\obj\Debug\netcoreapp2.0\de-DE\ResourceFiles.resources.dll
