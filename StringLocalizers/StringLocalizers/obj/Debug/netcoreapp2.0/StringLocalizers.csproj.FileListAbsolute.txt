@@ -1,0 +1,15 @@
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\StringLocalizers\StringLocalizers\bin\Debug\netcoreapp2.0\StringLocalizers.deps.json
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\StringLocalizers\StringLocalizers\bin\Debug\netcoreapp2.0\StringLocalizers.runtimeconfig.json
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\StringLocalizers\StringLocalizers\bin\Debug\netcoreapp2.0\StringLocalizers.runtimeconfig.dev.json
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\StringLocalizers\StringLocalizers\bin\Debug\netcoreapp2.0\StringLocalizers.dll
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\StringLocalizers\StringLocalizers\bin\Debug\netcoreapp2.0\StringLocalizers.pdb
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\StringLocalizers\StringLocalizers\obj\Debug\netcoreapp2.0\StringLocalizers.csprojResolveAssemblyReference.cache
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\StringLocalizers\StringLocalizers\obj\Debug\netcoreapp2.0\StringLocalizers.csproj.CoreCompileInputs.cache
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\StringLocalizers\StringLocalizers\obj\Debug\netcoreapp2.0\StringLocalizers.AssemblyInfoInputs.cache
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\StringLocalizers\StringLocalizers\obj\Debug\netcoreapp2.0\StringLocalizers.AssemblyInfo.cs
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\StringLocalizers\StringLocalizers\obj\Debug\netcoreapp2.0\StringLocalizers.dll
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\StringLocalizers\StringLocalizers\obj\Debug\netcoreapp2.0\StringLocalizers.pdb
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\StringLocalizers\StringLocalizers\bin\Debug\netcoreapp2.0\en-US\StringLocalizers.resources.dll
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\StringLocalizers\StringLocalizers\obj\Debug\netcoreapp2.0\StringLocalizers.Resources.Services.AboutService.en-US.resources
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\StringLocalizers\StringLocalizers\obj\Debug\netcoreapp2.0\StringLocalizers.csproj.GenerateResource.Cache
+C:\Users\Nisvet\source\repos\ASP.NET Core Internationalization\StringLocalizers\StringLocalizers\obj\Debug\netcoreapp2.0\en-US\StringLocalizers.resources.dll
