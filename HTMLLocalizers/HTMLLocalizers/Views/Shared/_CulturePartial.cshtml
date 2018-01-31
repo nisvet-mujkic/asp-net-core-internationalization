@@ -1,0 +1,25 @@
+﻿@inject Microsoft.Extensions.Options.IOptions<Microsoft.AspNetCore.Builder.RequestLocalizationOptions> LocOptions
+
+@{
+    IEnumerable<SelectListItem> supportedUICultures = LocOptions.Value.SupportedUICultures.Select(x => new SelectListItem()
+    {
+        Value = x.Name,
+        Text = x.DisplayName
+    });
+
+    Microsoft.AspNetCore.Localization.IRequestCultureFeature cultureFeature = 
+        Context.Features.Get<Microsoft.AspNetCore.Localization.IRequestCultureFeature>();
+}
+
+<form class="navbar-form navbar-right form-horizontal" id="cultureForm" 
+      asp-controller="Culture"
+      asp-action="Set" 
+      asp-route-returnUrl="@Context.Request.Path"
+      method="post"
+      role="form">
+
+    <select class="form-control" name="uiCulture" 
+            asp-for="@cultureFeature.RequestCulture.UICulture.Name"
+            asp-items="@supportedUICultures">
+    </select>
+</form>
